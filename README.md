@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## 1er test d'intégration flourish
 
-You can use the [editor on GitHub](https://github.com/antoinecourtin/Examen-dataviz/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div class="flourish-embed flourish-cards" data-src="visualisation/4425854"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Markdown
 
